@@ -24,7 +24,7 @@ I am a developer based in **Thailand** 🌍 currently transitioning from Web Dev
 ---
 
 ## 📂 Featured Work
-- **[Snake Game (Python)](https://github.com/bom70489)**: A deep dive into OOP, coordinate geometry, and real-time state management.
+- **[Snake Game (Python)](https://github.com/bom70489/python-snakegame)**: A deep dive into OOP, coordinate geometry, and real-time state management.
 - **[Detections](https://github.com/bom70489/Detections)**: Early explorations into computer vision and Python-based detection logic.
 - **[Spotify Clone](https://github.com/bom70489/Spotify-clone)**: Mastering JavaScript and UI/UX design.
 
