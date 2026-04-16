@@ -18,7 +18,7 @@ I am a developer based in **Thailand** 🌍 currently transitioning from Web Dev
 | :--- | :--- |
 | **Frontend** | React, HTML5, CSS3, TailwindCSS |
 | **Backend** | Node.js, MySQL, Python |
-| **Languages** | JavaScript, Python, Java |
+| **Languages** | JavaScript, Python |
 | **Tools** | VS Code, Vite, Git/GitHub |
 
 ---
